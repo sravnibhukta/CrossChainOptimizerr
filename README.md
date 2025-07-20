@@ -4,6 +4,14 @@ A real-time cross-chain gas price monitoring dashboard that tracks Ethereum, Pol
 
 ![CrossChain Gas Tracker](https://img.shields.io/badge/Status-Live-brightgreen) ![Networks](https://img.shields.io/badge/Networks-3-blue) ![Real--time](https://img.shields.io/badge/Real--time-WebSocket-orange)
 
+<img width="1271" height="744" alt="image" src="https://github.com/user-attachments/assets/79fd7789-e0c9-4ad8-a0b0-43b550721e86" />
+
+<img width="1271" height="744" alt="image" src="https://github.com/user-attachments/assets/61500f6f-113b-4972-8dfa-944eadf5d9d0" />
+
+<img width="1286" height="751" alt="image" src="https://github.com/user-attachments/assets/d4faecdb-910a-495c-be9e-2a90689f2c3c" />
+
+<img width="1289" height="623" alt="image" src="https://github.com/user-attachments/assets/66419106-5f21-43ff-8faa-87d49db37d98" />
+
 ## 🚀 Features
 
 ### 📊 Real-Time Gas Monitoring
